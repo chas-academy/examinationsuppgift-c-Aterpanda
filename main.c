@@ -50,8 +50,8 @@ int main() { //Startar programet
     }
 
     printf("%s\n", name[0]); //Skriver ut namnet på studenten, varje namn på en ny rad
-    printf("%s\n", name[3]); //Skriver ut namnet på studenten med sämst genomsnittspoäng.
-    printf("%s\n", name[4]); //Skriver ut namnet på studenten, med näst sämst genomsnittspoäng.
+    printf("%s\n", name[4]); //Skriver ut namnet på studenten med sämst genomsnittspoäng.
+    printf("%s\n", name[3]); //Skriver ut namnet på studenten, med näst sämst genomsnittspoäng.
 
           
     
